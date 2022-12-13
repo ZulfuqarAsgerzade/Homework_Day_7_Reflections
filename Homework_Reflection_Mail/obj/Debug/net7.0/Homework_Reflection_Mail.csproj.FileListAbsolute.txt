@@ -1,0 +1,15 @@
+C:\Users\asger\source\repos\Homework_Mail_Reflection\Homework_Reflection_Mail\bin\Debug\net7.0\Homework_Reflection_Mail.exe
+C:\Users\asger\source\repos\Homework_Mail_Reflection\Homework_Reflection_Mail\bin\Debug\net7.0\Homework_Reflection_Mail.deps.json
+C:\Users\asger\source\repos\Homework_Mail_Reflection\Homework_Reflection_Mail\bin\Debug\net7.0\Homework_Reflection_Mail.runtimeconfig.json
+C:\Users\asger\source\repos\Homework_Mail_Reflection\Homework_Reflection_Mail\bin\Debug\net7.0\Homework_Reflection_Mail.dll
+C:\Users\asger\source\repos\Homework_Mail_Reflection\Homework_Reflection_Mail\bin\Debug\net7.0\Homework_Reflection_Mail.pdb
+C:\Users\asger\source\repos\Homework_Mail_Reflection\Homework_Reflection_Mail\obj\Debug\net7.0\Homework_Reflection_Mail.csproj.AssemblyReference.cache
+C:\Users\asger\source\repos\Homework_Mail_Reflection\Homework_Reflection_Mail\obj\Debug\net7.0\Homework_Reflection_Mail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asger\source\repos\Homework_Mail_Reflection\Homework_Reflection_Mail\obj\Debug\net7.0\Homework_Reflection_Mail.AssemblyInfoInputs.cache
+C:\Users\asger\source\repos\Homework_Mail_Reflection\Homework_Reflection_Mail\obj\Debug\net7.0\Homework_Reflection_Mail.AssemblyInfo.cs
+C:\Users\asger\source\repos\Homework_Mail_Reflection\Homework_Reflection_Mail\obj\Debug\net7.0\Homework_Reflection_Mail.csproj.CoreCompileInputs.cache
+C:\Users\asger\source\repos\Homework_Mail_Reflection\Homework_Reflection_Mail\obj\Debug\net7.0\Homework_Reflection_Mail.dll
+C:\Users\asger\source\repos\Homework_Mail_Reflection\Homework_Reflection_Mail\obj\Debug\net7.0\refint\Homework_Reflection_Mail.dll
+C:\Users\asger\source\repos\Homework_Mail_Reflection\Homework_Reflection_Mail\obj\Debug\net7.0\Homework_Reflection_Mail.pdb
+C:\Users\asger\source\repos\Homework_Mail_Reflection\Homework_Reflection_Mail\obj\Debug\net7.0\Homework_Reflection_Mail.genruntimeconfig.cache
+C:\Users\asger\source\repos\Homework_Mail_Reflection\Homework_Reflection_Mail\obj\Debug\net7.0\ref\Homework_Reflection_Mail.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_Reflection_Mail", "Homework_Reflection_Mail\Homework_Reflection_Mail.csproj", "{CDD646EA-CAE3-46FC-B1AC-E2CE5DD923A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDD646EA-CAE3-46FC-B1AC-E2CE5DD923A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD646EA-CAE3-46FC-B1AC-E2CE5DD923A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD646EA-CAE3-46FC-B1AC-E2CE5DD923A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD646EA-CAE3-46FC-B1AC-E2CE5DD923A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B13BD788-453D-4B57-A56F-DAD4AD52D389}
+	EndGlobalSection
+EndGlobal
